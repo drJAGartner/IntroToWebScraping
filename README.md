@@ -14,13 +14,9 @@
 ---
 
 ## About me:
-Hello I'm [Chris Huie](https://www.facebook.com/chris.huie.14). I'm the Phoenix Tech Evangelist here at Galvanize!
+Hello I'm [Joe Gartner](https://www.linkedin.com/in/drjagartner/). I'm the Lead data science instructor at Galvanize in Austin.
 
-- Hashtag: [#phoenixtechnerd](https://www.linkedin.com/feed/hashtag/phoenixtechnerd/)
-- FB Page: [@phoenixtechnerd](https://www.facebook.com/phoenixtechnerd)
-- LinkedIn: [Chris Huie](https://www.linkedin.com/in/phoenixtechnerd/) 
-- Instagram: [@phoenixtechnerd](https://www.instagram.com/phoenixtechnerd)
-- Email: [christopher.huie@galvanize.com](mailto:christopher.huie@galvanize.com)
+- Email: [joe.gartner@galvanize.com](mailto:joe.gartner@galvanize.com)
 
 ---
 
